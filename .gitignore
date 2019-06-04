@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+/privatekey.pem
+/public_privatekey.pfx
+/publickey.cer
+/.idea
